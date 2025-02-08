@@ -1,16 +1,13 @@
-## Hi there 👋
+# 统计git操作
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liangcheng133&count_private=true&layout=compact)
 
-<!--
-**liangcheng133/liangcheng133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 统计语言
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liangcheng133&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 展示仓库，通过此方式解除github首页 pin数量的限制
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=liangcheng133&repo=raindrop-web-manage" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=liangcheng133&repo=raindrop-web-manage" />
+</a>
